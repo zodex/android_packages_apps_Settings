@@ -167,8 +167,7 @@
 
         <!-- Settings -->
 
-        <activity android:name="MainSettings"
-                android:theme="@android:style/Theme.Holo.NoActionBar"
+        <activity android:name="CPASettings"
                 android:label="@string/settings_label_launcher"
                 android:taskAffinity="com.android.settings"
                 android:launchMode="singleTask">
